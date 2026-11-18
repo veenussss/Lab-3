@@ -1,6 +1,6 @@
 # Software Specification: Crypto Lab Client
 
-Assignment: Homework 3 (AES Encryption and Hashing). Wire details are defined by `crypto_message_spec_v2.md`; product requirements by `requirements_v2.md`. This document specifies the software that satisfies them, one section per problem.
+Assignment: AES Encryption and Hashing. Wire details are defined by `crypto_message_spec_v2.md`; product requirements by `requirements_v2.md`. This document specifies the software that satisfies them, one section per problem.
 
 | ID | Problem | Section |
 | --- | --- | --- |
